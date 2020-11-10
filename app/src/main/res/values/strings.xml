@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Date Picker</string>
+    <string name="selectDate">seleccciona la data</string>
+    <string name="insertaData">click per introduir data</string>
+</resources>
